@@ -1,1 +1,2 @@
-vless://c672bf2f-be4c-4ffa-abf0-d71a4ebe825a@s67.unoix.cloud:2096?security=tls&type=grpc&host=it.dalidalton.online&headerType=&serviceName=.....&sni=it.dalidalton.online&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%E2%98%81%EF%B8%8F
+vless://c672bf2f-be4c-4ffa-abf0-d71a4ebe825a@sw.unoix.cloud:598?security=reality&encryption=none&pbk=gxAd7A03ZNsuaL2fwThCU5YmRObM-U_y89jlaNkxXCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=proxmox.com&sid=cccf23ec#%F0%9F%87%B8%F0%9F%87%AA+Sweden+%28%E2%9A%A1-Tcp%29
+vless://c672bf2f-be4c-4ffa-abf0-d71a4ebe825a@s67.unoix.cloud:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=.....&sni=it.dalidalton.online#%F0%9F%87%AE%F0%9F%87%B9+Italy+%E2%98%81%EF%B8%8F
