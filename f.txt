@@ -1,3 +1,2 @@
-
-vless://2fd9b80f-c2cf-4e14-8cde-3a71dc706a80@172.232.208.107:598?security=reality&encryption=none&pbk=gxAd7A03ZNsuaL2fwThCU5YmRObM-U_y89jlaNkxXCE&headerType=none&fp=chrome&type=tcp&sni=codedeploy-commands.eu-west-2.amazonaws.com&sid=cccf23ec#%F0%9F%87%AE%F0%9F%87%B9+Italy+%28%D8%AE%D8%A7%D9%86%D9%87+%D9%88+%D8%A8%DB%8C%D8%B1%D9%88%D9%86%29
 vless://2fd9b80f-c2cf-4e14-8cde-3a71dc706a80@javatpoint.com:8080?path=%2F&security=none&encryption=none&host=sois.dalir4d.shop&type=ws#%F0%9F%87%A8%F0%9F%87%AD+Swiss+%28%D8%B2%D8%A7%D9%BE%D8%A7%D8%B3%29
+vless://2fd9b80f-c2cf-4e14-8cde-3a71dc706a80@172.232.208.107:598?security=reality&encryption=none&pbk=gxAd7A03ZNsuaL2fwThCU5YmRObM-U_y89jlaNkxXCE&headerType=none&fp=chrome&type=tcp&sni=codedeploy-commands.eu-west-2.amazonaws.com&sid=cccf23ec#%F0%9F%87%AE%F0%9F%87%B9+Italy+%28%D8%AE%D8%A7%D9%86%D9%87+%D9%88+%D8%A8%DB%8C%D8%B1%D9%88%D9%86%29
