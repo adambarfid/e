@@ -1,1 +1,2 @@
-vless://2fd9b80f-c2cf-4e14-8cde-3a71dc706a80@crazygames.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=.....&sni=nl.dalidalton.online#%F0%9F%87%B3%F0%9F%87%B1+Netherlands+%E2%98%81%EF%B8%8F
+vless://2fd9b80f-c2cf-4e14-8cde-3a71dc706a80@www.unpkg.com:8080?path=%2F&security=none&encryption=none&host=lk.r4dv44io.shop&type=ws#%F0%9F%87%A8%F0%9F%87%B5+France
+vless://2fd9b80f-c2cf-4e14-8cde-3a71dc706a80@javatpoint.com:8080?path=%2F&security=none&encryption=none&host=oregon.r4dv44io.shop&type=ws#%F0%9F%87%AC%F0%9F%87%A7+United+kingdom
