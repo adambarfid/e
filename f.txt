@@ -1,3 +1,2 @@
-
-vless://2fd9b80f-c2cf-4e14-8cde-3a71dc706a80@ir.luxuryapartments.fun:2083?path=%2F%3Fed%3D2050&security=tls&encryption=none&alpn=h2,http/1.1&host=de.r4dv44io.shop&fp=chrome&type=ws&sni=de.r4dv44io.shop#%F0%9F%87%A9%F0%9F%87%AA+Germany+%28%D8%B2%D8%A7%D9%BE%D8%A7%D8%B3%29
-vless://2fd9b80f-c2cf-4e14-8cde-3a71dc706a80@96.126.117.116:445?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8+America+%28%D8%AE%D8%A7%D9%86%D9%87+%D9%88+%D8%A8%DB%8C%D8%B1%D9%88%D9%86%29
+vless://2fd9b80f-c2cf-4e14-8cde-3a71dc706a80@all.r4dv44io.shop:2053?path=%2F%3Fed%3D2050&security=tls&encryption=none&alpn=h2&host=swi.dalidalton.online&fp=chrome&type=ws&sni=swi.dalidalton.online#%F0%9F%87%B8%F0%9F%87%AA+%D8%B3%D9%88%D8%A6%D8%AF+%28%D8%A8%DB%8C%D8%B1%D9%88%D9%86%29
+vmess://eyJhZGQiOiJpci5sdXh1cnlhcGFydG1lbnRzLmZ1biIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjODUyOGRlOC04NjM2LTQwNjgtOGMwOS1mOTljNTE0YThiYzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+HqfCfh6og2KLZhNmF2KfZhiAo2K7Yp9mG2YcpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
